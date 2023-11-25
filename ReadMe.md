@@ -3,7 +3,7 @@ This is  hospital Api for doctors of hospital where doctor can register them sel
 ## Tech Stack :
  Node.Js and Mongo DB
 ## Take a Look  :
-The api is hosted : [here]()
+The api is hosted : [here](https://hospitalmanagment-19qi.onrender.com/)
 
 ## For LocalSystem
 for this objective user can download the repository from git and then extract the folder and then type npm start command to run this api.
